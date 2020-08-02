@@ -1,0 +1,7 @@
+spring:
+  thymeleaf:
+    cache: false # 关闭缓存，方便刷新
+server:
+  port: 8010
+  servlet:
+    context-path: /bmft

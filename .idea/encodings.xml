@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/helloboot-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sb-02-yaml/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sb-03-JSR303数据校验和多环境配置/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sb-04-首页和web模板引擎/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sb-05自制starter启动器/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sb-06-员工信息管理系统/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sb-07-JDBC原生使用/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sb-08-Mybatis整合/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sb-09-Mybatis整合/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sb-10-Security安全身份和授权/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

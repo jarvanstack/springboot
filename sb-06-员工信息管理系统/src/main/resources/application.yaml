@@ -1,0 +1,22 @@
+server:
+  port: 8006
+  servlet:
+    # 设置项目名
+    context-path: /bmft
+
+# 关闭缓存
+spring:
+  thymeleaf:
+    cache: false
+  messages:
+    basename: i18n.login
+    # 设置@Component和@Bean 可以同时存在，Bean会覆盖Component
+  main:
+    allow-bean-definition-overriding: true
+  mvc:
+    format:
+      #设置前端输入的日期格式，但是以后建议在前端日期，而不是字符串
+      date: yyyy-MM-dd
+
+
+

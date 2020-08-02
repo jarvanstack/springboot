@@ -1,0 +1,28 @@
+
+server:
+  port: 8011
+#选择要激活那个环境块
+spring:
+  profiles:
+    active: test
+
+--- #使用 --- 分割线代表是另一个配置  div开发配置
+server:
+  port: 8002
+spring:
+  profiles: div
+---  #test测试配置
+server:
+  port: 8003
+spring:
+  profiles: test
+dog01:
+  last-name: 阿亮
+
+
+
+dog02:
+  name: 阿强
+  birth: 2020/01/07
+  email: 2530196154@qq.com
+spring.mvc

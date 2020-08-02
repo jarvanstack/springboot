@@ -1,0 +1,15 @@
+person:
+  name: 半亩方塘
+  age: 3
+  happy: true
+  #如果使用 2001.03.11就报错
+  # Failed to bind properties under 'person02.birth' to java.util.Date
+  birth: 2001/03/11
+  maps: {username: root,password: 612001}
+  lists:
+    - eat
+    - sleep
+    - playbean
+  dog:
+    name: 阿强
+    age: 2

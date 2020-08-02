@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c43ae284-a6e5-440a-8220-8b0e3b52a70f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mybatis: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SpringBoot" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fOb3Wq7C3ivLmetKbhnfgCVdOx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sb-10-Security安全身份和授权/src/main/resources/templates" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Enviroment\java\SpringBoot\sb-06-员工信息管理系统\src\main\resources\templates\employee" />
+      <recent name="D:\Enviroment\java\SpringBoot\sb-06员工管理系统\src\main\resources\static" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bmft.sb06.utils" />
+      <recent name="com.bmft.yaml" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Enviroment\java\SpringBoot\sb-10-Security安全身份和授权\src\main\resources\templates" />
+      <recent name="D:\Enviroment\java\SpringBoot\sb-10-Security安全身份和授权\src\main\resources\static" />
+      <recent name="D:\Enviroment\java\SpringBoot\sb-06-员工信息管理系统\src\main\resources\templates\emp" />
+      <recent name="D:\Enviroment\java\SpringBoot\sb-06-员工信息管理系统\src\main\resources\templates" />
+      <recent name="D:\Enviroment\java\SpringBoot\sb-06-员工信息管理系统\src\main\resources\i18n" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Sb10Application">
+    <configuration name="测试数据源01.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sb-07-JDBC原生使用" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo07" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo07.测试数据源01" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="查询测试01.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sb-08-Mybatis整合" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo08" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo08.查询测试01" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数据源失败测试02.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sb-08-Mybatis整合" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo08" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo08.数据源失败测试02" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数据源失败测试02.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sb-08-Mybatis整合" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo08" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo08.数据源失败测试02" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCTemp使用02.insert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sb-07-JDBC原生使用" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo07" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo07.JDBCTemp使用02" />
+      <option name="METHOD_NAME" value="insert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BmftApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sb-06员工管理系统" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bmft.BmftApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo03Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sb-03-JSR303数据校验和多环境配置" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bmft.demo03.Demo03Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo05Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sb-05自制starter启动器" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bmft.demo05.Demo05Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo07Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sb-07-JDBC原生使用" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo07.Demo07Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo08Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sb-08-Mybatis整合" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo08.Demo08Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sb-04-首页和web模板引擎" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.Sb04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HellobootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="helloboot-01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bmft.helloboot.HellobootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sb06Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sb-06-员工信息管理系统" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bmft.sb06.Sb06Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sb09Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sb-09-Mybatis整合" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sb09.Sb09Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sb10Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sb-10-Security安全身份和授权" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.sb10.Sb10Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springboot.SpringbootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YamlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sb-02-yaml" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bmft.yaml.YamlApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JDBCTemp使用02.insert" />
+        <item itemvalue="JUnit.测试数据源01.test" />
+        <item itemvalue="JUnit.数据源失败测试02.test3" />
+        <item itemvalue="JUnit.数据源失败测试02.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c43ae284-a6e5-440a-8220-8b0e3b52a70f" name="Default Changelist" comment="" />
+      <created>1596091887378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596091887378</updated>
+      <workItem from="1596091889381" duration="7327000" />
+      <workItem from="1596105608716" duration="39757000" />
+      <workItem from="1596245334426" duration="32976000" />
+      <workItem from="1596329667744" duration="183000" />
+      <workItem from="1596329891123" duration="623000" />
+      <workItem from="1596330527242" duration="9545000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2471" y="177" key="#Project_Structure" timestamp="1596112951391">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2471" y="177" key="#Project_Structure/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596112951391" />
+    <state x="2670" y="65" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596269103792">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2670" y="65" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596269103792" />
+    <state x="2592" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596184472241">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2592" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596184472241" />
+    <state x="2684" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1596334184315">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2684" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596334184315" />
+    <state x="2515" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596169741825">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2515" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596169741825" />
+    <state x="2609" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596256044839">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2609" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596256044839" />
+    <state x="2659" y="274" key="FileChooserDialogImpl" timestamp="1596113507570">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2659" y="274" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596113507570" />
+    <state width="1875" height="213" key="GridCell.Tab.0.bottom" timestamp="1596340350818">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="213" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596340350818" />
+    <state width="1875" height="213" key="GridCell.Tab.0.center" timestamp="1596340350818">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="213" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596340350818" />
+    <state width="1875" height="213" key="GridCell.Tab.0.left" timestamp="1596340350818">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="213" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596340350818" />
+    <state width="1875" height="213" key="GridCell.Tab.0.right" timestamp="1596340350818">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="213" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596340350818" />
+    <state width="1875" height="213" key="GridCell.Tab.1.bottom" timestamp="1596340350818">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="213" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596340350818" />
+    <state width="1875" height="213" key="GridCell.Tab.1.center" timestamp="1596340350818">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="213" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596340350818" />
+    <state width="1875" height="213" key="GridCell.Tab.1.left" timestamp="1596340350818">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="213" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596340350818" />
+    <state width="1875" height="213" key="GridCell.Tab.1.right" timestamp="1596340350818">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="213" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596340350818" />
+    <state x="2409" y="174" key="Maven.ArtifactSearchDialog" timestamp="1596158710727">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2409" y="174" key="Maven.ArtifactSearchDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596158710727" />
+    <state x="2221" y="103" key="SettingsEditor" timestamp="1596333671439">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2221" y="103" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596333671439" />
+    <state x="2012" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1596339549801">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2012" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596339549801" />
+    <state x="2559" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1596330528992">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2559" y="342" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596330528992" />
+    <state x="2487" y="220" width="786" height="600" key="find.popup" timestamp="1596282383470">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2487" y="220" width="786" height="600" key="find.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596282383470" />
+    <state x="2253" y="220" key="new project wizard" timestamp="1596331956328">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2253" y="220" key="new project wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596331956328" />
+    <state x="2471" y="178" key="scopes" timestamp="1596110448404">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2471" y="178" key="scopes/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596110448404" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1596281160149">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596281160149" />
+  </component>
+</project>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpringBoot" />
+        <module name="sb-10-Security安全身份和授权" />
+        <module name="sb-05自制starter启动器" />
+        <module name="sb-08-Mybatis整合" />
+        <module name="helloboot-01" />
+        <module name="sb-06员工管理系统" />
+        <module name="sb-04-首页和web模板引擎" />
+        <module name="sb-07-JDBC原生使用" />
+        <module name="sb-02-yaml" />
+        <module name="sb-09-Mybatis整合" />
+        <module name="sb09" />
+        <module name="sb-06-员工信息管理系统" />
+        <module name="sb-03-JSR303数据校验和多环境配置" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="helloboot-01" target="1.8" />
+      <module name="sb-02-yaml" target="1.8" />
+      <module name="sb-03-JSR303数据校验和多环境配置" target="1.8" />
+      <module name="sb-04-首页和web模板引擎" target="1.8" />
+      <module name="sb-05自制starter启动器" target="1.8" />
+      <module name="sb-06-员工信息管理系统" target="1.8" />
+      <module name="sb-06员工管理系统" target="1.8" />
+      <module name="sb-07-JDBC原生使用" target="1.8" />
+      <module name="sb-08-Mybatis整合" target="1.8" />
+      <module name="sb-09-Mybatis整合" target="1.8" />
+      <module name="sb-10-Security安全身份和授权" target="1.8" />
+      <module name="sb09" target="1.8" />
+      <module name="SpringBoot" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SpringBoot" options="-parameters" />
+      <module name="helloboot-01" options="-parameters" />
+      <module name="sb-02-yaml" options="-parameters" />
+      <module name="sb-03-JSR303数据校验和多环境配置" options="-parameters" />
+      <module name="sb-04-首页和web模板引擎" options="-parameters" />
+      <module name="sb-05自制starter启动器" options="-parameters" />
+      <module name="sb-06-员工信息管理系统" options="-parameters" />
+      <module name="sb-06员工管理系统" options="-parameters" />
+      <module name="sb-07-JDBC原生使用" options="-parameters" />
+      <module name="sb-08-Mybatis整合" options="-parameters" />
+      <module name="sb-09-Mybatis整合" options="-parameters" />
+      <module name="sb-10-Security安全身份和授权" options="-parameters" />
+      <module name="sb09" options="-parameters" />
+    </option>
+  </component>
+</project>

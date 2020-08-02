@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/helloboot-01/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-02-yaml/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-03-JSR303数据校验和多环境配置/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-04-首页和web模板引擎/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-05自制starter启动器/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-06-员工信息管理系统/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-07-JDBC原生使用/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-08-Mybatis整合/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-09-Mybatis整合/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-10-Security安全身份和授权/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
