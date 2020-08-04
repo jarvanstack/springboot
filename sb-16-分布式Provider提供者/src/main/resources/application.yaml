@@ -1,0 +1,16 @@
+#提供者的配置
+#这里包警告了，我们先不管，不然像上次一样，跑不起在看这个
+spring:
+  #发布应用程序配置
+  application:
+    name: zhg-dubbo-provider
+
+  dubbo:
+    application:
+      name: zhg-dubbo-provider   #别名，提供方应用信息，用于计算依赖关系
+    registry:
+      address: zookeeper://47.107.105.158:2181 #使用zookeeper注册中心暴露服务地址
+    protocol:
+      name: dubbo
+      port: -1         #配置暴露服务端口
+    scan: com.zhg.service   #扫描需要暴露的服务

@@ -13,6 +13,13 @@
       <module fileurl="file://$PROJECT_DIR$/sb-08-Mybatis整合/sb-08-Mybatis整合.iml" filepath="$PROJECT_DIR$/sb-08-Mybatis整合/sb-08-Mybatis整合.iml" />
       <module fileurl="file://$PROJECT_DIR$/sb-09-Mybatis整合/sb-09-Mybatis整合.iml" filepath="$PROJECT_DIR$/sb-09-Mybatis整合/sb-09-Mybatis整合.iml" />
       <module fileurl="file://$PROJECT_DIR$/sb-10-Security安全身份和授权/sb-10-Security安全身份和授权.iml" filepath="$PROJECT_DIR$/sb-10-Security安全身份和授权/sb-10-Security安全身份和授权.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-11-swagger接口文档/sb-11-swagger接口文档.iml" filepath="$PROJECT_DIR$/sb-11-swagger接口文档/sb-11-swagger接口文档.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-12-异步多线程注解/sb-12-异步多线程注解.iml" filepath="$PROJECT_DIR$/sb-12-异步多线程注解/sb-12-异步多线程注解.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-13-邮件发送/sb-13-邮件发送.iml" filepath="$PROJECT_DIR$/sb-13-邮件发送/sb-13-邮件发送.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-14-邮件发送2/sb-14-邮件发送2.iml" filepath="$PROJECT_DIR$/sb-14-邮件发送2/sb-14-邮件发送2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-15-定时任务/sb-15-定时任务.iml" filepath="$PROJECT_DIR$/sb-15-定时任务/sb-15-定时任务.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-16-分布式Provider提供者/sb-16-分布式Provider提供者.iml" filepath="$PROJECT_DIR$/sb-16-分布式Provider提供者/sb-16-分布式Provider提供者.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-17-分布式Consumer使用者/sb-17-分布式Consumer使用者.iml" filepath="$PROJECT_DIR$/sb-17-分布式Consumer使用者/sb-17-分布式Consumer使用者.iml" />
       <module fileurl="file://$PROJECT_DIR$/sb-09-Mybatis整合/sb09.iml" filepath="$PROJECT_DIR$/sb-09-Mybatis整合/sb09.iml" />
     </modules>
   </component>

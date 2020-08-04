@@ -11,6 +11,13 @@
     <file url="file://$PROJECT_DIR$/sb-08-Mybatis整合/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sb-09-Mybatis整合/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sb-10-Security安全身份和授权/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sb-11-swagger接口文档/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sb-12-异步多线程注解/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sb-13-邮件发送/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sb-14-邮件发送2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sb-15-定时任务/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sb-16-分布式Provider提供者/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sb-17-分布式Consumer使用者/src/main/java" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

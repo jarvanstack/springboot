@@ -1,0 +1,14 @@
+# 使用者的配置
+spring:
+  application:
+    name: zhg-dubbo-consumer
+  dubbo:
+    application:
+      name: zhg-dubbo-consumer   #别名，消费方应用信息，不要与提供方相同
+    registry:
+      address: zookeeper://47.107.105.158:2181 #注册中心地址，调用服务
+    scan: com.zhg.api     #dubbo注解扫描
+  servlet:
+    multipart:
+      max-file-size: 100MB
+      max-request-size: 100MB

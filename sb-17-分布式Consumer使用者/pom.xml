@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>springboot</artifactId>
+        <groupId>com.</groupId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>sb-17-分布式Consumer使用者</artifactId>
+
+    <!--springboot整合dubbo-->
+    <dependency>
+        <groupId>io.dubbo.springboot</groupId>
+        <artifactId>spring-boot-starter-dubbo</artifactId>
+        <version>1.0.0</version>
+        <exclusions>
+            <exclusion>     <!--此处排除掉低版本的dubbo依赖-->
+                <groupId>com.alibaba</groupId>
+                <artifactId>dubbo</artifactId>
+            </exclusion>
+            <exclusion>     <!--排除低版本zookeeper依赖-->
+                <groupId>com.101tec</groupId>
+                <artifactId>zkclient</artifactId>
+            </exclusion>
+        </exclusions>
+    </dependency>
+
+    <!--dubbo-->
+    <dependency>
+        <groupId>com.alibaba</groupId>
+        <artifactId>dubbo</artifactId>
+        <version>2.6.0</version>
+        <!--排除javassist防止与spring data jpa中冲突-->
+        <exclusions>
+            <exclusion>
+                <groupId>org.javassist</groupId>
+                <artifactId>javassist</artifactId>
+            </exclusion>
+        </exclusions>
+    </dependency>
+
+    <!--zookeeper-->
+    <dependency>
+        <groupId>com.github.sgroschupf</groupId>
+        <artifactId>zkclient</artifactId>
+        <version>0.1</version>
+        <exclusions>
+            <exclusion>
+                <artifactId>zookeeper</artifactId>
+                <groupId>org.apache.zookeeper</groupId>
+            </exclusion>
+        </exclusions>
+    </dependency>
+
+    <dependency>
+        <groupId>org.apache.zookeeper</groupId>
+        <artifactId>zookeeper</artifactId>
+        <version>3.4.9</version>
+        <exclusions>
+            <exclusion>
+                <artifactId>slf4j-log4j12</artifactId>
+                <groupId>org.slf4j</groupId>
+            </exclusion>
+            <exclusion>
+                <artifactId>log4j</artifactId>
+                <groupId>log4j</groupId>
+            </exclusion>
+        </exclusions>
+    </dependency>
+</project>

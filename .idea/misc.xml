@@ -14,6 +14,13 @@
         <option value="$PROJECT_DIR$/sb-08-Mybatis整合/pom.xml" />
         <option value="$PROJECT_DIR$/sb-09-Mybatis整合/pom.xml" />
         <option value="$PROJECT_DIR$/sb-10-Security安全身份和授权/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-11-swagger接口文档/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-12-异步多线程注解/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-13-邮件发送/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-14-邮件发送2/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-15-定时任务/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-18-分布式Consumer使用端/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-17-分布式Provider提供者/pom.xml" />
       </list>
     </option>
   </component>

@@ -1,0 +1,4 @@
+# 激活QQ邮箱,这个
+spring:
+  profiles:
+    active: qq #默认使用助理账号bmft.rola@qq.com 防止主账号出问题

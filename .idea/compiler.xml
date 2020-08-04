@@ -6,19 +6,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="SpringBoot" />
+        <module name="sb-11-swagger接口文档" />
+        <module name="sb-15-定时任务" />
         <module name="sb-10-Security安全身份和授权" />
-        <module name="sb-05自制starter启动器" />
-        <module name="sb-08-Mybatis整合" />
-        <module name="helloboot-01" />
-        <module name="sb-06员工管理系统" />
         <module name="sb-04-首页和web模板引擎" />
-        <module name="sb-07-JDBC原生使用" />
-        <module name="sb-02-yaml" />
-        <module name="sb-09-Mybatis整合" />
         <module name="sb09" />
+        <module name="sb-13-邮件发送" />
+        <module name="sb-02-yaml" />
+        <module name="sb-08-Mybatis整合" />
+        <module name="sb-07-JDBC原生使用" />
+        <module name="sb-06员工管理系统" />
+        <module name="sb-14-邮件发送2" />
+        <module name="helloboot-01" />
+        <module name="sb-05自制starter启动器" />
+        <module name="sb-12-异步多线程注解" />
+        <module name="sb-09-Mybatis整合" />
         <module name="sb-06-员工信息管理系统" />
+        <module name="sb-16-分布式Provider提供者" />
         <module name="sb-03-JSR303数据校验和多环境配置" />
+        <module name="sb-17-分布式Consumer使用者" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -33,7 +39,17 @@
       <module name="sb-08-Mybatis整合" target="1.8" />
       <module name="sb-09-Mybatis整合" target="1.8" />
       <module name="sb-10-Security安全身份和授权" target="1.8" />
+      <module name="sb-11-swagger接口文档" target="1.8" />
+      <module name="sb-12-异步多线程注解" target="1.8" />
+      <module name="sb-13-邮件发送" target="1.8" />
+      <module name="sb-14-邮件发送2" target="1.8" />
+      <module name="sb-15-定时任务" target="1.8" />
+      <module name="sb-16-分布式Provider提供者" target="1.8" />
+      <module name="sb-17-分布式Consumer使用者" target="1.8" />
+      <module name="sb-17-分布式Provider提供者" target="1.8" />
+      <module name="sb-18-分布式Consumer使用端" target="1.8" />
       <module name="sb09" target="1.8" />
+      <module name="sb16" target="1.8" />
       <module name="SpringBoot" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -51,7 +67,17 @@
       <module name="sb-08-Mybatis整合" options="-parameters" />
       <module name="sb-09-Mybatis整合" options="-parameters" />
       <module name="sb-10-Security安全身份和授权" options="-parameters" />
+      <module name="sb-11-swagger接口文档" options="-parameters" />
+      <module name="sb-12-异步多线程注解" options="-parameters" />
+      <module name="sb-13-邮件发送" options="-parameters" />
+      <module name="sb-14-邮件发送2" options="-parameters" />
+      <module name="sb-15-定时任务" options="-parameters" />
+      <module name="sb-16-分布式Provider提供者" options="-parameters" />
+      <module name="sb-17-分布式Consumer使用者" options="-parameters" />
+      <module name="sb-17-分布式Provider提供者" options="-parameters" />
+      <module name="sb-18-分布式Consumer使用端" options="-parameters" />
       <module name="sb09" options="-parameters" />
+      <module name="sb16" options="-parameters" />
     </option>
   </component>
 </project>
