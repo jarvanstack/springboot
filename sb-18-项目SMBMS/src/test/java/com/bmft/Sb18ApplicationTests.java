@@ -10,4 +10,9 @@ class Sb18ApplicationTests {
     void contextLoads() {
     }
 
+
+    @Test
+    public void test(){
+        
+    }
 }
