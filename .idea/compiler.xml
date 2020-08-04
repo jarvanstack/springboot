@@ -12,6 +12,7 @@
         <module name="sb-04-首页和web模板引擎" />
         <module name="sb09" />
         <module name="sb-13-邮件发送" />
+        <module name="sb-18-项目SMBMS" />
         <module name="sb-02-yaml" />
         <module name="sb-08-Mybatis整合" />
         <module name="sb-07-JDBC原生使用" />
@@ -48,6 +49,7 @@
       <module name="sb-17-分布式Consumer使用者" target="1.8" />
       <module name="sb-17-分布式Provider提供者" target="1.8" />
       <module name="sb-18-分布式Consumer使用端" target="1.8" />
+      <module name="sb-18-项目SMBMS" target="1.8" />
       <module name="sb09" target="1.8" />
       <module name="sb16" target="1.8" />
       <module name="SpringBoot" target="1.8" />
@@ -76,6 +78,7 @@
       <module name="sb-17-分布式Consumer使用者" options="-parameters" />
       <module name="sb-17-分布式Provider提供者" options="-parameters" />
       <module name="sb-18-分布式Consumer使用端" options="-parameters" />
+      <module name="sb-18-项目SMBMS" options="-parameters" />
       <module name="sb09" options="-parameters" />
       <module name="sb16" options="-parameters" />
     </option>

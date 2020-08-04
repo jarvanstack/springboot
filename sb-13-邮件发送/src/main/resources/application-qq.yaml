@@ -3,7 +3,7 @@ spring:
   mail:
     host: smtp.qq.com #发送邮件服务器
     username: bmft.rola@qq.com #发送邮件的邮箱地址
-    password: cczdqllnqhizeadi #客户端授权码，不是邮箱密码，这个在qq邮箱设置里面自动生成的 bmft.rola@qq.com
+    password: cczdxxxizeadi #客户端授权码，不是邮箱密码，这个在qq邮箱设置里面自动生成的 bmft.rola@qq.com
     properties.mail.smtp.port: 465 #端口号465或587
     # 这里是一个But，警告并没有错，加上了空格会错
     from: bmft.rola@qq.com # 发送邮件的地址，和上面username一致

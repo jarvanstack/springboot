@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/sb-15-定时任务/sb-15-定时任务.iml" filepath="$PROJECT_DIR$/sb-15-定时任务/sb-15-定时任务.iml" />
       <module fileurl="file://$PROJECT_DIR$/sb-16-分布式Provider提供者/sb-16-分布式Provider提供者.iml" filepath="$PROJECT_DIR$/sb-16-分布式Provider提供者/sb-16-分布式Provider提供者.iml" />
       <module fileurl="file://$PROJECT_DIR$/sb-17-分布式Consumer使用者/sb-17-分布式Consumer使用者.iml" filepath="$PROJECT_DIR$/sb-17-分布式Consumer使用者/sb-17-分布式Consumer使用者.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-18-项目SMBMS/sb-18-项目SMBMS.iml" filepath="$PROJECT_DIR$/sb-18-项目SMBMS/sb-18-项目SMBMS.iml" />
       <module fileurl="file://$PROJECT_DIR$/sb-09-Mybatis整合/sb09.iml" filepath="$PROJECT_DIR$/sb-09-Mybatis整合/sb09.iml" />
     </modules>
   </component>

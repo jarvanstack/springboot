@@ -1,0 +1,99 @@
+[2020-08-04 10:56:02] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-10001} connected
+
+[2020-08-04 10:56:02] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-10002} connected
+
+[2020-08-04 10:56:02] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-10003} connected
+
+[2020-08-04 10:56:02] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-10004} connected
+
+[2020-08-04 10:56:02] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-10005} connected
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-10005} pool-connect
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.statementLog(Log4jFilter.java:137)]
+{conn-10005, pstmt-20000} created. select * from smbms.smbms_user
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.statementLog(Log4jFilter.java:137)]
+{conn-10005, pstmt-20000} Parameters : []
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.statementLog(Log4jFilter.java:137)]
+{conn-10005, pstmt-20000} Types : []
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.statementLog(Log4jFilter.java:137)]
+{conn-10005, pstmt-20000} executed. 16.224099 millis. select * from smbms.smbms_user
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.resultSetLog(Log4jFilter.java:142)]
+{conn-10005, pstmt-20000, rs-50000} open
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.resultSetLog(Log4jFilter.java:142)]
+{conn-10005, pstmt-20000, rs-50000} Header: [id, userCode, userName, userPassword, gender, birthday, phone, address, userRole, createdBy, creationDate, modifyBy, modifyDate]
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.resultSetLog(Log4jFilter.java:142)]
+{conn-10005, pstmt-20000, rs-50000} Result: [1, admin, 系统管理员, 1234567, 1, 1983-10-10, 13688889999, 北京市海淀区成府路207号, 1, 1, 2013-03-22 00:52:07.0, null, null]
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.resultSetLog(Log4jFilter.java:142)]
+{conn-10005, pstmt-20000, rs-50000} Result: [2, liming, 李明, 0000000, 2, 1983-12-10, 13688884457, 北京市东城区前门东大街9号, 2, 1, 2015-01-01 03:52:09.0, null, null]
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.resultSetLog(Log4jFilter.java:142)]
+{conn-10005, pstmt-20000, rs-50000} Result: [5, hanlubiao, 韩路彪, 0000000, 2, 1984-06-05, 18567542321, 北京市朝阳区北辰中心12号, 2, 1, 2015-01-01 03:52:09.0, null, null]
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.resultSetLog(Log4jFilter.java:142)]
+{conn-10005, pstmt-20000, rs-50000} Result: [6, zhanghua, 张华, 0000000, 1, 1983-06-15, 13544561111, 北京市海淀区学院路61号, 3, 1, 2013-02-11 18:51:17.0, null, null]
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.resultSetLog(Log4jFilter.java:142)]
+{conn-10005, pstmt-20000, rs-50000} Result: [7, wangyang, 王洋, 0000000, 2, 1982-12-31, 13444561124, 北京市海淀区西二旗辉煌国际16层, 3, 1, 2014-06-12 03:09:07.0, null, null]
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.resultSetLog(Log4jFilter.java:142)]
+{conn-10005, pstmt-20000, rs-50000} Result: [8, zhaoyan, 赵燕, 0000000, 1, 1986-03-07, 18098764545, 北京市海淀区回龙观小区10号楼, 3, 1, 2016-04-21 21:54:07.0, null, null]
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.resultSetLog(Log4jFilter.java:142)]
+{conn-10005, pstmt-20000, rs-50000} Result: [10, sunlei, 孙磊, 0000000, 2, 1981-01-04, 13387676765, 北京市朝阳区管庄新月小区12楼, 3, 1, 2015-05-06 18:52:07.0, null, null]
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.resultSetLog(Log4jFilter.java:142)]
+{conn-10005, pstmt-20000, rs-50000} Result: [11, sunxing, 孙兴, 0000000, 2, 1978-03-12, 13367890900, 北京市朝阳区建国门南大街10号, 3, 1, 2016-11-10 00:51:17.0, null, null]
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.resultSetLog(Log4jFilter.java:142)]
+{conn-10005, pstmt-20000, rs-50000} Result: [12, zhangchen, 张晨, 0000000, 1, 1986-03-28, 18098765434, 朝阳区管庄路口北柏林爱乐三期13号楼, 3, 1, 2016-08-09 13:52:37.0, 1, 2016-04-14 22:15:36.0]
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.resultSetLog(Log4jFilter.java:142)]
+{conn-10005, pstmt-20000, rs-50000} Result: [13, dengchao, 邓超, 0000000, 2, 1981-11-04, 13689674534, 北京市海淀区北航家属院10号楼, 3, 1, 2016-07-11 16:02:47.0, null, null]
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.resultSetLog(Log4jFilter.java:142)]
+{conn-10005, pstmt-20000, rs-50000} Result: [14, yangguo, 杨过, 0000000, 2, 1980-01-01, 13388886623, 北京市朝阳区北苑家园茉莉园20号楼, 3, 1, 2015-02-01 11:52:07.0, null, null]
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.resultSetLog(Log4jFilter.java:142)]
+{conn-10005, pstmt-20000, rs-50000} Result: [15, zhaomin, 赵敏, 0000000, 1, 1987-12-04, 18099897657, 北京市昌平区天通苑3区12号楼, 2, 1, 2015-09-12 20:02:12.0, null, null]
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.resultSetLog(Log4jFilter.java:142)]
+{conn-10005, pstmt-20000, rs-50000} closed
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.statementLog(Log4jFilter.java:137)]
+{conn-10005, pstmt-20000} clearParameters. 
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-10005} pool-recycle
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-10001} closed
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-10002} closed
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-10003} closed
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-10004} closed
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.statementLog(Log4jFilter.java:137)]
+{conn-10005, pstmt-20000} closed
+
+[2020-08-04 10:56:03] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-10005} closed
+
