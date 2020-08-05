@@ -29,13 +29,11 @@ public class User {
 	private Date creationDate; //创建时间
 	private Integer modifyBy;     //更新者
 	private Date modifyDate;   //更新时间
-	
 	private Integer age;//年龄
-	
 	private String userRoleName;    //用户角色名称
 
 
-	/**
+	/**`
 	 * 通过生日，计算年龄
 	 * @return 年龄
 	 */

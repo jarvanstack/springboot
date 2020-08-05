@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.bmft.dao.UserMapper">
+    <select id="login" resultType="user" parameterType="map">
+        select * from smbms.smbms_user where userCode = #{userCode}
+        and userPassword = #{userPassword}
+    </select>
+    <insert id="signIn" parameterType="map">
+        insert into smbms.smbms_user
+            (userCode,
+             userName,
+             userPassword,
+             gender,
+             birthday,
+             phone,
+             address,
+             userRole,
+              email)   # 9行
+            VALUE
+            (#{userCode},
+             #{userName},
+             #{userPassword},
+             #{gender},
+             #{birthday},
+             #{phone},
+             #{address},
+             #{userRole},
+             #{email})
+    </insert>
+<!--    通过id获取 user-->
+    <select id="selectUserById" parameterType="String" resultType="user">
+        select * from smbms.smbms_user where id = #{id}
+    </select>
+    <!--    userList-->
+    <select id="selectUsers" resultType="user">
+        select *,
+               smbms.smbms_role.roleName as userRoleName
+        from smbms.smbms_user,smbms.smbms_role
+        where smbms_user.userRole = smbms_role.id
+    </select>
+<!--    添加用户-->
+    <insert id="addUser" parameterType="map">
+        insert into smbms.smbms_user
+        (userCode,
+         userName,
+         userPassword,
+         gender,
+         birthday,
+         phone,
+         address,
+         userRole,
+         email,
+         createdBy,
+         creationDate
+         )   # 11行
+            VALUE
+            (#{userCode},
+             #{userName},
+             #{userPassword},
+             #{gender},
+             #{birthday},
+             #{phone},
+             #{address},
+             #{userRole},
+             #{email},
+                #{createdBy},
+                #{creationDate})
+    </insert>
+</mapper>

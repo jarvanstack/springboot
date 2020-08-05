@@ -1559,7 +1559,13 @@
       <DataType>datetime|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <key id="348" parent="255" name="PRIMARY">
+    <column id="348" parent="255" name="email">
+      <Position>14</Position>
+      <Comment>邮箱可以用于注册和密码找回</Comment>
+      <DataType>varchar(50)|0s</DataType>
+      <ColumnKind>normal</ColumnKind>
+    </column>
+    <key id="349" parent="255" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>id</ColNames>
       <Primary>1</Primary>

@@ -13,6 +13,6 @@ class Sb18ApplicationTests {
 
     @Test
     public void test(){
-        
+
     }
 }
