@@ -21,6 +21,10 @@
       <module fileurl="file://$PROJECT_DIR$/sb-16-分布式Provider提供者/sb-16-分布式Provider提供者.iml" filepath="$PROJECT_DIR$/sb-16-分布式Provider提供者/sb-16-分布式Provider提供者.iml" />
       <module fileurl="file://$PROJECT_DIR$/sb-17-分布式Consumer使用者/sb-17-分布式Consumer使用者.iml" filepath="$PROJECT_DIR$/sb-17-分布式Consumer使用者/sb-17-分布式Consumer使用者.iml" />
       <module fileurl="file://$PROJECT_DIR$/sb-18-项目SMBMS/sb-18-项目SMBMS.iml" filepath="$PROJECT_DIR$/sb-18-项目SMBMS/sb-18-项目SMBMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-19-Mybatis-Plus快速开始/sb-19-Mybatis-Plus快速开始.iml" filepath="$PROJECT_DIR$/sb-19-Mybatis-Plus快速开始/sb-19-Mybatis-Plus快速开始.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-20-MP性能分析插件P6spy/sb-20-MP性能分析插件P6spy.iml" filepath="$PROJECT_DIR$/sb-20-MP性能分析插件P6spy/sb-20-MP性能分析插件P6spy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-21-Wrapper条件构造器/sb-21-.iml" filepath="$PROJECT_DIR$/sb-21-Wrapper条件构造器/sb-21-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-22-炒鸡重点代码生成器-起飞/sb-22-炒鸡重点代码生成器-起飞.iml" filepath="$PROJECT_DIR$/sb-22-炒鸡重点代码生成器-起飞/sb-22-炒鸡重点代码生成器-起飞.iml" />
       <module fileurl="file://$PROJECT_DIR$/sb-09-Mybatis整合/sb09.iml" filepath="$PROJECT_DIR$/sb-09-Mybatis整合/sb09.iml" />
     </modules>
   </component>

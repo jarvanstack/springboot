@@ -4,6 +4,7 @@ import com.bmft.dao.UserMapper;
 import com.bmft.pojo.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 import java.util.Map;
@@ -14,8 +15,10 @@ import java.util.Map;
  */
 @Service
 public class UserServiceImpl implements UserService {
+
     @Autowired
     private UserMapper userMapper;
+
     @Override
     public User login(Map<String, Object> map) {
         return userMapper.login(map);
@@ -36,6 +39,13 @@ public class UserServiceImpl implements UserService {
         return userMapper.selectUsers();
     }
 
+    /**
+     * 阿里巴巴太智能了
+     *
+     * @param map
+     * @return
+     */
+    @Transactional(rollbackFor = Exception.class)
     @Override
     public int addUser(Map<String, Object> map) {
         return userMapper.addUser(map);

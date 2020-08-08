@@ -19,6 +19,11 @@
     <file url="file://$PROJECT_DIR$/sb-16-分布式Provider提供者/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sb-17-分布式Consumer使用者/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sb-18-项目SMBMS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sb-19-Mybatis-Plus快速开始/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sb-20-MP性能分析插件P6spy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sb-21-Wrapper条件构造器/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sb-22-炒鸡重点代码生成器-起飞/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

@@ -22,6 +22,11 @@
         <option value="$PROJECT_DIR$/sb-18-分布式Consumer使用端/pom.xml" />
         <option value="$PROJECT_DIR$/sb-17-分布式Provider提供者/pom.xml" />
         <option value="$PROJECT_DIR$/sb-18-项目SMBMS/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-19-Mybatis-Plus快速开始/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-20-MP性能分析插件P6spy/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-21-条件构造器Wrapper/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-21-Wrapper条件构造器/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-22-炒鸡重点代码生成器-起飞/pom.xml" />
       </list>
     </option>
   </component>

@@ -2794,3 +2794,242 @@ com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long
 [2020-08-05 21:14:49] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
 {conn-10005} connected
 
+[2020-08-05 21:18:31] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-10001} connected
+
+[2020-08-05 21:18:31] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-10002} connected
+
+[2020-08-05 21:18:31] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-10003} connected
+
+[2020-08-05 21:18:31] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-10004} connected
+
+[2020-08-05 21:18:31] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-10005} connected
+
+[2020-08-05 21:20:00] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-10005} pool-connect
+
+[2020-08-05 21:20:00] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.statementLog(Log4jFilter.java:137)]
+{conn-10005, pstmt-20000} created. insert into smbms.smbms_user
+            (userCode,
+             userName,
+             userPassword,
+             gender,
+             birthday,
+             phone,
+             address,
+             userRole,
+              email)   # 9行
+            VALUE
+            (?,
+             ?,
+             ?,
+             ?,
+             ?,
+             ?,
+             ?,
+             ?,
+             ?)
+
+[2020-08-05 21:20:00] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.statementLog(Log4jFilter.java:137)]
+{conn-10005, pstmt-20000} Parameters : [fdsf, fads, null, 1, 2020-08-15 00:00:00.0, fdsfdfsa, null, 1, jarvandeng@163.com]
+
+[2020-08-05 21:20:00] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.statementLog(Log4jFilter.java:137)]
+{conn-10005, pstmt-20000} Types : [VARCHAR, VARCHAR, OTHER, VARCHAR, TIMESTAMP, VARCHAR, OTHER, VARCHAR, VARCHAR]
+
+[2020-08-05 21:20:00] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.statementLog(Log4jFilter.java:137)]
+{conn-10005, pstmt-20000} executed. 5.1152 millis. insert into smbms.smbms_user
+            (userCode,
+             userName,
+             userPassword,
+             gender,
+             birthday,
+             phone,
+             address,
+             userRole,
+              email)   # 9行
+            VALUE
+            (?,
+             ?,
+             ?,
+             ?,
+             ?,
+             ?,
+             ?,
+             ?,
+             ?)
+
+[2020-08-05 21:20:00] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.statementLog(Log4jFilter.java:137)]
+{conn-10005, pstmt-20000} clearParameters. 
+
+[2020-08-05 21:20:00] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-10005} pool-recycle
+
+[2020-08-06 04:18:31] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-10001} closed
+
+[2020-08-06 04:18:31] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-10002} closed
+
+[2020-08-06 04:18:31] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-10003} closed
+
+[2020-08-06 04:18:31] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-10004} closed
+
+[2020-08-06 04:20:31] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-10005} closed
+
+[2020-08-06 09:41:33] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-110001} connected
+
+[2020-08-06 09:41:33] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-110002} connected
+
+[2020-08-06 09:41:33] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-110003} connected
+
+[2020-08-06 09:41:33] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-110004} connected
+
+[2020-08-06 09:41:33] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-110005} connected
+
+[2020-08-06 09:41:33] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-110001} closed
+
+[2020-08-06 09:41:33] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-110002} closed
+
+[2020-08-06 09:41:33] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-110003} closed
+
+[2020-08-06 09:41:33] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-110004} closed
+
+[2020-08-06 09:41:33] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-110005} closed
+
+[2020-08-06 09:47:34] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-210001} connected
+
+[2020-08-06 09:47:34] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-210002} connected
+
+[2020-08-06 09:47:34] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-210003} connected
+
+[2020-08-06 09:47:34] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-210004} connected
+
+[2020-08-06 09:47:34] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-210005} connected
+
+[2020-08-06 09:47:34] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-210001} closed
+
+[2020-08-06 09:47:34] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-210002} closed
+
+[2020-08-06 09:47:34] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-210003} closed
+
+[2020-08-06 09:47:34] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-210004} closed
+
+[2020-08-06 09:47:34] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-210005} closed
+
+[2020-08-06 09:53:23] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-310001} connected
+
+[2020-08-06 09:53:23] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-310002} connected
+
+[2020-08-06 09:53:23] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-310003} connected
+
+[2020-08-06 09:53:23] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-310004} connected
+
+[2020-08-06 09:53:23] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-310005} connected
+
+[2020-08-06 09:54:14] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-310001} closed
+
+[2020-08-06 09:54:14] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-310002} closed
+
+[2020-08-06 09:54:14] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-310003} closed
+
+[2020-08-06 09:54:14] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-310004} closed
+
+[2020-08-06 09:54:14] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-310005} closed
+
+[2020-08-06 09:54:14] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-410001} connected
+
+[2020-08-06 09:54:14] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-410002} connected
+
+[2020-08-06 09:54:14] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-410003} connected
+
+[2020-08-06 09:54:14] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-410004} connected
+
+[2020-08-06 09:54:14] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-410005} connected
+
+[2020-08-06 09:54:14] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-410001} closed
+
+[2020-08-06 09:54:14] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-410002} closed
+
+[2020-08-06 09:54:14] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-410003} closed
+
+[2020-08-06 09:54:14] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-410004} closed
+
+[2020-08-06 09:54:14] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-410005} closed
+
+[2020-08-06 09:57:13] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-510001} connected
+
+[2020-08-06 09:57:13] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-510002} connected
+
+[2020-08-06 09:57:13] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-510003} connected
+
+[2020-08-06 09:57:13] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-510004} connected
+
+[2020-08-06 09:57:13] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-510005} connected
+
+[2020-08-06 16:57:13] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-510001} closed
+
+[2020-08-06 16:57:13] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-510002} closed
+
+[2020-08-06 16:57:13] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-510003} closed
+
+[2020-08-06 16:57:13] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-510004} closed
+
+[2020-08-06 16:57:13] [DEBUG] [method:com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132)]
+{conn-510005} closed
+

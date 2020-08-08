@@ -14,8 +14,7 @@ import java.util.Map;
  * @create 2020/8/4 20:37
  */
 
-@Mapper
-@Service
+
 public interface UserService {
     User login(Map<String, Object> map);
     int signIn(Map<String, Object> map);

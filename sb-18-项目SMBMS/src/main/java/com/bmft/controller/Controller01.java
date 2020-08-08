@@ -1,6 +1,7 @@
 package com.bmft.controller;
 
 import com.bmft.pojo.User;
+import com.bmft.service.UserService;
 import com.bmft.service.UserServiceImpl;
 import com.bmft.utils.Constant01;
 import com.bmft.utils.MailUtil01;
@@ -28,7 +29,7 @@ import java.util.Map;
 public class Controller01 {
 
     @Autowired
-    UserServiceImpl userService;
+    private UserService userService;
     @Autowired
     MailUtil01 mailUtil01;
 

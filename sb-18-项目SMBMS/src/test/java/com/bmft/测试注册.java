@@ -14,7 +14,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 public class 测试注册 {
     @Autowired
-    UserServiceImpl userService;
+    UserService userService;
 
     @Test
     public void test(){
