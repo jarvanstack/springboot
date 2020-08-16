@@ -5,77 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c43ae284-a6e5-440a-8220-8b0e3b52a70f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_engine_core_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__p6spy_p6spy_3_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-18-项目SMBMS/src/test/java/com/bmft/不建议现场注入.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-19-Mybatis-Plus快速开始/sb-19-Mybatis-Plus快速开始.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-19-Mybatis-Plus快速开始/src/main/java/com/example/sb19/config/MybatisPlusConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-19-Mybatis-Plus快速开始/src/main/java/com/example/sb19/handler/MyMetaObjectHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-19-Mybatis-Plus快速开始/src/main/java/com/example/sb19/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-19-Mybatis-Plus快速开始/src/main/java/com/example/sb19/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-19-Mybatis-Plus快速开始/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-19-Mybatis-Plus快速开始/src/test/java/com/example/sb19/乐观锁04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-19-Mybatis-Plus快速开始/src/test/java/com/example/sb19/分页插件06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-19-Mybatis-Plus快速开始/src/test/java/com/example/sb19/快速开始.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-19-Mybatis-Plus快速开始/src/test/java/com/example/sb19/自动填充03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-19-Mybatis-Plus快速开始/src/test/java/com/example/sb19/自动生成主键id策略.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-19-Mybatis-Plus快速开始/src/test/java/com/example/sb19/逻辑删除05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-20-MP性能分析插件P6spy/sb-20-MP性能分析插件P6spy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-20-MP性能分析插件P6spy/src/main/java/com/example/sb20/config/MybatisPlusConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-20-MP性能分析插件P6spy/src/main/java/com/example/sb20/handler/MyMetaObjectHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-20-MP性能分析插件P6spy/src/main/java/com/example/sb20/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-20-MP性能分析插件P6spy/src/main/java/com/example/sb20/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-20-MP性能分析插件P6spy/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-20-MP性能分析插件P6spy/src/main/resources/spy.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-20-MP性能分析插件P6spy/src/test/java/com/example/sb20/性能分析插件.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-21-Wrapper条件构造器/sb-21-.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-21-Wrapper条件构造器/src/main/java/com/example/sb21/config/MybatisPlusConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-21-Wrapper条件构造器/src/main/java/com/example/sb21/handler/MyMetaObjectHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-21-Wrapper条件构造器/src/main/java/com/example/sb21/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-21-Wrapper条件构造器/src/main/java/com/example/sb21/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-21-Wrapper条件构造器/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-21-Wrapper条件构造器/src/test/java/com/example/sb21/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-21-Wrapper条件构造器/src/test/java/com/example/sb21/测试环境.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-21-Wrapper条件构造器/src/test/java/com/example/sb21/父类静态代码块.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-22-炒鸡重点代码生成器-起飞/sb-22-炒鸡重点代码生成器-起飞.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-22-炒鸡重点代码生成器-起飞/src/main/java/com/example/sb22/config/MybatisPlusConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-22-炒鸡重点代码生成器-起飞/src/main/java/com/example/sb22/handler/MyMetaObjectHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-22-炒鸡重点代码生成器-起飞/src/main/java/com/example/sb22/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-22-炒鸡重点代码生成器-起飞/src/main/java/com/example/sb22/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-22-炒鸡重点代码生成器-起飞/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-22-炒鸡重点代码生成器-起飞/src/test/java/com/example/sb22/Lambda表达式.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-22-炒鸡重点代码生成器-起飞/src/test/java/com/example/sb22/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-22-炒鸡重点代码生成器-起飞/src/test/java/com/example/sb22/官网演示例子.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_20_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_1_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sb-23-JPA快速开始/sb-23-JPA快速开始.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sb-23-JPA快速开始/src/main/java/com/example/sb23/dao/RoleDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sb-23-JPA快速开始/src/main/java/com/example/sb23/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sb-23-JPA快速开始/src/main/java/com/example/sb23/pojo/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sb-23-JPA快速开始/src/main/java/com/example/sb23/pojo/RoleUserId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sb-23-JPA快速开始/src/main/java/com/example/sb23/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sb-23-JPA快速开始/src/test/java/com/example/sb23/插入数据01Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sb-23-JPA快速开始/src/test/java/com/example/sb23/条件查询02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sb-23-JPA快速开始/src/test/java/com/example/sb23/连表查询03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/smartfox_info.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/logging.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log/logging.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-16-分布式Provider提供者/sb-16-分布式Provider提供者.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sb-16-分布式Provider提供者/sb-16-分布式Provider提供者.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-17-分布式Consumer使用者/sb-17-分布式Consumer使用者.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sb-17-分布式Consumer使用者/sb-17-分布式Consumer使用者.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-18-项目SMBMS/log/logging.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sb-18-项目SMBMS/log/logging.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-18-项目SMBMS/sb-18-项目SMBMS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sb-18-项目SMBMS/sb-18-项目SMBMS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-18-项目SMBMS/src/main/java/com/bmft/Sb18Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/sb-18-项目SMBMS/src/main/java/com/bmft/Sb18Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-18-项目SMBMS/src/main/java/com/bmft/controller/Controller01.java" beforeDir="false" afterPath="$PROJECT_DIR$/sb-18-项目SMBMS/src/main/java/com/bmft/controller/Controller01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-18-项目SMBMS/src/main/java/com/bmft/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/sb-18-项目SMBMS/src/main/java/com/bmft/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-18-项目SMBMS/src/main/java/com/bmft/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/sb-18-项目SMBMS/src/main/java/com/bmft/service/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-18-项目SMBMS/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/sb-18-项目SMBMS/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-18-项目SMBMS/src/test/java/com/bmft/测试注册.java" beforeDir="false" afterPath="$PROJECT_DIR$/sb-18-项目SMBMS/src/test/java/com/bmft/测试注册.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloboot-01/src/main/java/com/bmft/helloboot/controller/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/helloboot-01/src/main/java/com/bmft/helloboot/controller/Hello.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,12 +77,6 @@
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="@localhost" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="smbms: schema" type="76f4a085:MysqlImplModel$Schema" />
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
@@ -162,7 +131,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sb-22-炒鸡重点代码生成器-起飞/src/main/java/com/example/sb22" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Vue" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -191,20 +160,7 @@
       <recent name="D:\Enviroment\java\SpringBoot\sb-06员工管理系统\src\main\resources\static" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test01">
-    <configuration name="父类静态代码块" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.sb21.父类静态代码块" />
-      <module name="sb-21-" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.sb21.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.插入数据01Test.test04">
     <configuration name="官网演示例子" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.sb22.官网演示例子" />
       <module name="sb-22-炒鸡重点代码生成器-起飞" />
@@ -218,62 +174,82 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.sb22.Test01" />
-      <module name="sb-22-炒鸡重点代码生成器-起飞" />
+    <configuration name="插入数据01Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sb-23-JPA快速开始" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.sb22.*" />
+          <option name="PATTERN" value="com.example.sb23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sb22ApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="sb-22-炒鸡重点代码生成器-起飞" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.sb22.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.example.sb22" />
-      <option name="MAIN_CLASS_NAME" value="com.example.sb22.Sb22ApplicationTests" />
-      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="PACKAGE_NAME" value="com.example.sb23" />
+      <option name="MAIN_CLASS_NAME" value="com.example.sb23.插入数据01Test" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test01.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="sb-21-" />
+    <configuration name="插入数据01Test.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sb-23-JPA快速开始" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.sb21.*" />
+          <option name="PATTERN" value="com.example.sb23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.sb21" />
-      <option name="MAIN_CLASS_NAME" value="com.example.sb21.Test01" />
+      <option name="PACKAGE_NAME" value="com.example.sb23" />
+      <option name="MAIN_CLASS_NAME" value="com.example.sb23.插入数据01Test" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="插入数据01Test.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sb-23-JPA快速开始" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.sb23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.sb23" />
+      <option name="MAIN_CLASS_NAME" value="com.example.sb23.插入数据01Test" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="插入数据01Test.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sb-23-JPA快速开始" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.sb23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.sb23" />
+      <option name="MAIN_CLASS_NAME" value="com.example.sb23.插入数据01Test" />
       <option name="METHOD_NAME" value="test04" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="不建议现场注入" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="sb-18-项目SMBMS" />
+    <configuration name="条件查询02.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sb-23-JPA快速开始" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bmft.*" />
+          <option name="PATTERN" value="com.example.sb23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.bmft" />
-      <option name="MAIN_CLASS_NAME" value="com.bmft.不建议现场注入" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.example.sb23" />
+      <option name="MAIN_CLASS_NAME" value="com.example.sb23.条件查询02" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -289,22 +265,6 @@
       <option name="PACKAGE_NAME" value="com.bmft" />
       <option name="MAIN_CLASS_NAME" value="com.bmft.测试注册" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="测试注册.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="sb-18-项目SMBMS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bmft.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bmft" />
-      <option name="MAIN_CLASS_NAME" value="com.bmft.测试注册" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -465,6 +425,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sb23Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sb-23-JPA快速开始" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.sb23.Sb23Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="SpringBoot" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.springboot.SpringbootApplication" />
@@ -503,20 +470,21 @@
       <item itemvalue="Spring Boot.Sb19Application" />
       <item itemvalue="Spring Boot.Sb20Application" />
       <item itemvalue="Spring Boot.Sb21Application" />
-      <item itemvalue="JUnit.Test01.test04" />
-      <item itemvalue="Application.父类静态代码块" />
       <item itemvalue="Spring Boot.Sb22Application" />
-      <item itemvalue="JUnit.Sb22ApplicationTests.contextLoads" />
-      <item itemvalue="Application.官网演示例子" />
-      <item itemvalue="Application.Test01" />
+      <item itemvalue="Spring Boot.Sb23Application" />
+      <item itemvalue="JUnit.插入数据01Test.test" />
+      <item itemvalue="JUnit.插入数据01Test.test02" />
+      <item itemvalue="JUnit.插入数据01Test.test03" />
+      <item itemvalue="JUnit.条件查询02.test01" />
+      <item itemvalue="JUnit.插入数据01Test.test04" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test01" />
-        <item itemvalue="Application.官网演示例子" />
-        <item itemvalue="JUnit.Sb22ApplicationTests.contextLoads" />
-        <item itemvalue="Application.父类静态代码块" />
-        <item itemvalue="JUnit.Test01.test04" />
+        <item itemvalue="JUnit.插入数据01Test.test04" />
+        <item itemvalue="JUnit.条件查询02.test01" />
+        <item itemvalue="JUnit.插入数据01Test.test" />
+        <item itemvalue="JUnit.插入数据01Test.test03" />
+        <item itemvalue="JUnit.插入数据01Test.test02" />
       </list>
     </recent_temporary>
   </component>
@@ -543,7 +511,14 @@
       <workItem from="1596510239817" duration="4301000" />
       <workItem from="1596526540775" duration="57059000" />
       <workItem from="1596762190758" duration="622000" />
-      <workItem from="1596779228739" duration="24223000" />
+      <workItem from="1596779228739" duration="26129000" />
+      <workItem from="1596856932069" duration="1528000" />
+      <workItem from="1596862668940" duration="113000" />
+      <workItem from="1596862806222" duration="1205000" />
+      <workItem from="1596934854872" duration="10000" />
+      <workItem from="1597136010757" duration="732000" />
+      <workItem from="1597372963943" duration="214000" />
+      <workItem from="1597493813601" duration="6009000" />
     </task>
     <servers />
   </component>
@@ -575,9 +550,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2436" y="313" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596616868963" />
-    <state x="2670" y="65" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596541917348">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="750" y="65" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597494140665">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="750" y="65" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597494140665" />
     <state x="2670" y="65" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596541917348" />
     <state x="2592" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596376168657">
       <screen x="1920" y="0" width="1920" height="1040" />
@@ -591,6 +567,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2684" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596803675863" />
+    <state x="579" y="197" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1597493828278">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="579" y="197" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597493828278" />
     <state x="2633" y="209" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1596797433974">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -615,46 +595,55 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2012" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596805684929" />
-    <state x="2659" y="274" key="FileChooserDialogImpl" timestamp="1596847998803">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1597373006080">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="2659" y="274" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596847998803" />
-    <state width="1875" height="2" key="GridCell.Tab.0.bottom" timestamp="1596847884300">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="739" y="274" key="FileChooserDialogImpl/-1920.8.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597373006080" />
+    <state x="2659" y="274" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596855983134" />
+    <state width="1875" height="880" key="GridCell.Tab.0.bottom" timestamp="1597543014855">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1875" height="880" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597543014855" />
     <state width="1491" height="551" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596434365562" />
-    <state width="1875" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596847884300" />
-    <state width="1875" height="2" key="GridCell.Tab.0.center" timestamp="1596847884300">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1875" height="289" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597136396993" />
+    <state width="1875" height="880" key="GridCell.Tab.0.center" timestamp="1597543014855">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1875" height="880" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597543014855" />
     <state width="1491" height="551" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596434365561" />
-    <state width="1875" height="2" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596847884300" />
-    <state width="1875" height="2" key="GridCell.Tab.0.left" timestamp="1596847884300">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1875" height="289" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597136396993" />
+    <state width="1875" height="880" key="GridCell.Tab.0.left" timestamp="1597543014855">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1875" height="880" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597543014855" />
     <state width="1491" height="551" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596434365561" />
-    <state width="1875" height="2" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596847884300" />
-    <state width="1875" height="2" key="GridCell.Tab.0.right" timestamp="1596847884300">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1875" height="289" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597136396993" />
+    <state width="1875" height="880" key="GridCell.Tab.0.right" timestamp="1597543014855">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1875" height="880" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597543014855" />
     <state width="1491" height="551" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596434365561" />
-    <state width="1875" height="2" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596847884300" />
-    <state width="1874" height="615" key="GridCell.Tab.1.bottom" timestamp="1596633611008">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1875" height="289" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597136396993" />
+    <state width="1875" height="413" key="GridCell.Tab.1.bottom" timestamp="1597496081994">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="615" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596633611008" />
-    <state width="1874" height="615" key="GridCell.Tab.1.center" timestamp="1596633611008">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1875" height="413" key="GridCell.Tab.1.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597496081994" />
+    <state width="1875" height="169" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597136359402" />
+    <state width="1875" height="413" key="GridCell.Tab.1.center" timestamp="1597496081994">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="615" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596633611008" />
-    <state width="1874" height="615" key="GridCell.Tab.1.left" timestamp="1596633611008">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1875" height="413" key="GridCell.Tab.1.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597496081994" />
+    <state width="1875" height="169" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597136359402" />
+    <state width="1875" height="413" key="GridCell.Tab.1.left" timestamp="1597496081994">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="615" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596633611008" />
-    <state width="1874" height="615" key="GridCell.Tab.1.right" timestamp="1596633611008">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1875" height="413" key="GridCell.Tab.1.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597496081994" />
+    <state width="1875" height="169" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597136359402" />
+    <state width="1875" height="413" key="GridCell.Tab.1.right" timestamp="1597496081994">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="615" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596633611008" />
+    <state width="1875" height="413" key="GridCell.Tab.1.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597496081994" />
+    <state width="1875" height="169" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597136359402" />
     <state x="2409" y="174" key="Maven.ArtifactSearchDialog" timestamp="1596849539037">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -675,9 +664,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2012" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596339549801" />
-    <state x="2559" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1596779543224">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="639" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1597373175887">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="639" y="342" key="com.intellij.ide.util.TipDialog/-1920.8.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597373175887" />
     <state x="2559" y="342" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596779543224" />
     <state x="232" y="0" width="1318" height="861" key="dock-window-1" timestamp="1596796301872">
       <screen x="0" y="0" width="1536" height="824" />
@@ -687,25 +677,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="0" width="1318" height="861" key="dock-window-2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596796307165" />
-    <state x="2340" y="220" width="933" height="698" key="find.popup" timestamp="1596608329023">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="420" y="220" width="933" height="698" key="find.popup" timestamp="1597495083513">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="420" y="220" width="933" height="698" key="find.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597495083513" />
     <state x="2340" y="220" width="933" height="698" key="find.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596608329023" />
-    <state x="2159" y="130" key="new project wizard" timestamp="1596801264235">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="239" y="130" key="new project wizard" timestamp="1597493962652">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="239" y="130" key="new project wizard/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597493962652" />
+    <state x="239" y="130" key="new project wizard/-1920.8.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597373023323" />
     <state x="2159" y="130" key="new project wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596801264235" />
-    <state x="2536" y="240" key="run.anything.popup" timestamp="1596804178515">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1597495288836">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="616" y="240" key="run.anything.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597495288836" />
     <state x="2536" y="240" key="run.anything.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596804178515" />
     <state x="2471" y="178" key="scopes" timestamp="1596110448404">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2471" y="178" key="scopes/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596110448404" />
-    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1596849392453">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597495540917">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597495540917" />
     <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596849392453" />
   </component>
 </project>

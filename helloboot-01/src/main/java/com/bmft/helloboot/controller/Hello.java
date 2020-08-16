@@ -11,6 +11,6 @@ public class Hello {
     @ResponseBody
     public String hello() {
 
-        return "Hello Boot";
+        return "Hello Linux SpringBoot";
     }
 }
